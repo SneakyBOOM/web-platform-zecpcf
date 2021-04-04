@@ -1,0 +1,34 @@
+#navbg {
+    height: 75px;
+    top: 0px;
+    left: 0px;
+    position: fixed;
+    z-index: 1;
+    background-color: gray;
+    width: 100%;
+}
+
+#navul {
+    text-decoration: none;
+    list-style-type: none;
+    display: inline;
+    background-color: white;
+    overflow: hidden;
+    margin: 0;
+    padding: 0;
+}
+
+.navlinks a {
+    font-size: 20px;
+    color: #603FE3;
+    display: block;
+    padding: 14px 16px;
+    text-align: center;
+    text-decoration: none;
+    display: block;
+    background-color: #292828;
+}
+
+#navlinks {
+    float: left;
+}
